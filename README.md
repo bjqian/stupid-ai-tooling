@@ -1,4 +1,11 @@
-# LLM integration
-As the capability of LLM enhances, more and more engineeres are involved into developing AI agents/applications. 
+# LLM Integration
 
-This field is developing extremely fast which makes the knowledge lack of stablity and deepth. But anyway, it's worth the time exploring the whole picture and write some toys.
+As the capabilities of LLMs continue to advance, more and more engineers are getting involved in developing AI agents and applications.
+
+This field is evolving at an extremely rapid pace, which leads to a lack of stability and depth in the available knowledge. Nevertheless, it is worth investing the time to explore the broader landscape and build some small projects for hands-on experience.
+
+## Starting a Simple Chat
+
+1. Navigate to the `ui2` directory, run `npm install`, then `npm run dev`.
+2. Navigate to the `backend` directory, run `dotnet run`.  
+   Before running, rename `appsettings.development.tpl.json` to `appsettings.development.json`, and update the AI configuration accordingly.
